@@ -192,14 +192,6 @@ pyparsing
 PyPDF2
 pyphen
 pyproj
-PyQt5
-pyqt5-plugins
-PyQt5-Qt5
-PyQt5-sip
-pyqt5-tools
-PyQt5Designer
-PyQtWebEngine
-PyQtWebEngine-Qt5
 pyrsistent
 pyshp
 PySocks
