@@ -1,4 +1,4 @@
-streamlit/GDAL-3.4.3-cp311-cp311-win_amd64.whl
+GDAL-3.4.3-cp311-cp311-win_amd64.whl
 affine
 altair
 altair-data-server
