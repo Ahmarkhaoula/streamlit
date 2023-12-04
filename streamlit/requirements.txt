@@ -1,3 +1,4 @@
+gdal==3.4.3
 affine
 altair
 altair-data-server
