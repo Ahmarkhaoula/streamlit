@@ -1,3 +1,4 @@
+gdal
 affine
 altair
 altair-data-server
