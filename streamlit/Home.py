@@ -21,12 +21,12 @@ def app():
     with row1_col1:
         
          st.image("https://khaoulanas.s3.ca-central-1.amazonaws.com/cog/gif.gif")
-         st.image(r'donnee\carto.png',width=320) 
+         st.image('donnee/carto.png',width=320) 
   
 
     with row1_col2:
       
-        st.image(r"donnee\graph .png",width=300)
-        st.image(r'donnee\slider .png',width=300)
+        st.image("donnee/graph .png",width=300)
+        st.image('donnee/slider .png',width=300)
         
 
